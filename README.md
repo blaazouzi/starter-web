@@ -6,3 +6,6 @@
 
 ##Sample website with plenty of files for demos
 add a new line to file readme
+#allo
+#ALLO2
+#Allo5
